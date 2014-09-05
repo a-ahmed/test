@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test1 from github
 
+=======
+test1
+>>>>>>> master
