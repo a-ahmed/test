@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 test2 from github2
 
+=======
+<<<<<<< HEAD
+test1 from github
+
+=======
+test1
+>>>>>>> master
+>>>>>>> 30cfe2eea77ef7c6b97d3b523b370bc5ce14d084
